@@ -1,1 +1,0 @@
-C:\Users\etsec\Desktop\PhoneApps\PhoneApp1\MyPhoneApp1\MyPhoneApp1.csproj;arm
