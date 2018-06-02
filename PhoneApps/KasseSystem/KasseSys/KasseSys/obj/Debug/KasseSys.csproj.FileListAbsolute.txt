@@ -1,0 +1,17 @@
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\bin\Debug\KasseSys.exe.config
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\bin\Debug\KasseSys.exe
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\bin\Debug\KasseSys.pdb
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.csprojResolveAssemblyReference.cache
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\MainWindow.g.cs
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\App.g.cs
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys_MarkupCompile.cache
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys_MarkupCompile.lref
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\MainWindow.baml
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.g.resources
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.Properties.Resources.resources
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.csproj.GenerateResource.Cache
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.csproj.CoreCompileInputs.cache
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.exe
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\KasseSys.pdb
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\Tastatur.g.cs
+C:\Users\etsec\Desktop\PhoneApps\KasseSystem\KasseSys\KasseSys\obj\Debug\Tastatur.baml

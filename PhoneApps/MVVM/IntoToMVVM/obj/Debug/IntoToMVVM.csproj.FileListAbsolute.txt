@@ -1,0 +1,15 @@
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\bin\Debug\IntoToMVVM.exe.config
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\bin\Debug\IntoToMVVM.exe
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\bin\Debug\IntoToMVVM.pdb
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\App.g.cs
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM_MarkupCompile.cache
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM_MarkupCompile.lref
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\View\MainWindow.baml
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.g.resources
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.Properties.Resources.resources
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.csproj.GenerateResource.Cache
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.csproj.CoreCompileInputs.cache
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.exe
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.pdb
+C:\Users\etsec\Desktop\PhoneApps\MVVM\IntoToMVVM\obj\Debug\IntoToMVVM.csprojResolveAssemblyReference.cache
