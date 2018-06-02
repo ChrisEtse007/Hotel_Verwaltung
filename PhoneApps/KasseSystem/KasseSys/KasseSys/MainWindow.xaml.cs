@@ -112,7 +112,7 @@ namespace KasseSys
 
         private void OnAutoGeneratingColumn(object sender, DataGridAutoGeneratingColumnEventArgs e)
         {
-            //-------------------
+            //-------------------Code------------
         }
 
         private void GridRowSelected(object sender, SelectionChangedEventArgs e)
